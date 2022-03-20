@@ -1,0 +1,113 @@
+
+#subheads {
+	font-size: 20px;
+	color: #DC143C;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+@media (max-width: 600px) {
+ 	#subheads {
+ 		font-size: 15px;
+ 	}
+ }
+
+.sublinks {
+	text-decoration: none;
+}
+
+
+#top{
+	text-align: center;
+	border-bottom: 1px solid #cccccc;
+}
+
+#logo{
+	width: 500px;
+}
+
+.local {
+	color: #666666;
+	font-size: 16px;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+
+h1{
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+#articleinfo{
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-size: 18px;
+}
+
+h2{
+	font-weight: normal;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+p{
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-size: 16px;
+}
+
+#student{
+	margin: 0;
+}
+
+h3{
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+img{
+	width:  100%;
+}
+
+
+article{
+	border-bottom: 1px solid #cccccc;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+section {
+	border-bottom: none;
+}
+
+@media (max-width: 600px) {
+ 	section {
+ 		border-bottom: 1px solid #cccccc;
+ 		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+ 	}
+ }
+
+
+figcaption{
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-size: 13px;
+}
+
+a{
+	color: #DC143C;
+}
+
+.otherstories{
+	color: black;
+	text-decoration: none;
+}
+
+
+footer{
+	background-color: #222222;
+}
+
+.footertext{
+	color: white;
+	font-size: 13px;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
