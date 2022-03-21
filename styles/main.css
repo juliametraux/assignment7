@@ -3,6 +3,7 @@
 	font-size: 20px;
 	color: #DC143C;
 	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-weight: bold;
 }
 
 @media (max-width: 600px) {
