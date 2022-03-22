@@ -33,7 +33,7 @@
 }
 
 .byline {
-	color: #cccccc;
+	color: orangered;
 	font-zie: 16px;
 	font-family: 'Helvetica', 'Arial', sans-serif;
 }
@@ -100,7 +100,7 @@ figcaption{
 }
 
 a{
-	color: #DC143C;
+	color: orangered;
 }
 
 .otherstories{
