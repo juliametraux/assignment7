@@ -1,7 +1,7 @@
 
 #subheads {
 	font-size: 20px;
-	color: #DC143C;
+	color: orangered;
 	font-family: 'Helvetica', 'Arial', sans-serif;
 	font-weight: bold;
 }
@@ -33,7 +33,7 @@
 }
 
 .byline {
-	color: orangered;
+	color: #666666;
 	font-zie: 16px;
 	font-family: 'Helvetica', 'Arial', sans-serif;
 }
