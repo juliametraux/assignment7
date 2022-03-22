@@ -79,12 +79,12 @@ article{
 	margin-bottom: 10px;
 }
 
-section {
+main {
 	border-bottom: none;
 }
 
 @media (max-width: 600px) {
- 	section {
+ 	main {
  		border-bottom: 1px solid #cccccc;
  		padding-top: 10px;
 		padding-bottom: 10px;
